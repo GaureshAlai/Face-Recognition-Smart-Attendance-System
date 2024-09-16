@@ -1,3 +1,6 @@
+# Face Detection Code : 
+Used for generating Bounding Box
+
 import cv2
 
 face_classifier = cv2.CascadeClassifier(
