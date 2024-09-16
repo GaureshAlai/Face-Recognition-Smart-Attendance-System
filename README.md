@@ -125,6 +125,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! Feel free to fork this repository, submit issues, or open pull requests for improvements and bug fixes.
 
----
-
-This `README.md` gives a clear and structured overview of the project, its usage, setup, and features. You can modify it to fit any additional features or customizations that you might add in the future!
