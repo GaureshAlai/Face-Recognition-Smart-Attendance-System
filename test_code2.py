@@ -1,3 +1,7 @@
+#Face Detection Code :
+Used for Recognization of person from uploading image.
+
+
 import cv2
 import matplotlib.pyplot as plt
 
