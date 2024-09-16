@@ -8,7 +8,7 @@ This project is a **Face Recognition Attendance System** that uses Python, OpenC
 - **Tkinter GUI**: Provides a clean and simple graphical interface with buttons to control the webcam and display recognition results.
 - **CSV Attendance Log**: Saves the attendance data (name, time, date) to a CSV file for easy record-keeping.
 
-## Screenshots
+## Video Demo
 [![Face Recognition Attendance Demo](https://drive.google.com/file/d/1rnClwn5B7cu7UTW65r7HVkp5m7SsUasX/view?usp=drive_link)](https://drive.google.com/file/d/1l-v7qEI51JNRo7ckTZLguMsfe5bTeKbd/view?usp=drive_link)
 
 ## Requirements
